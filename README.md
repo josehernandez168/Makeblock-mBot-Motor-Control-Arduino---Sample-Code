@@ -1,6 +1,6 @@
 # Makeblock-mBot-Motor-Control-Arduino---Sample-Code
 
-This repository incliudes basic code to control the Makebllock mBot robot.
+This repository incliudes basic code to control the Makeblock mBot robot's motors.
 Notice that there are two different codes. This is because of different
 motor driver configuration in these robots. 
 
